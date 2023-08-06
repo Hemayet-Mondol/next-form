@@ -125,7 +125,7 @@ export default function EmployeeForm() {
               <button
                 disabled={!checked}
                 type="submit"
-                className="btn btn-primary"
+                className="btn btn-success"
               >
                 Submit
               </button>
